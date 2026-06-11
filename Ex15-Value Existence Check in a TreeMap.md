@@ -13,13 +13,7 @@ To write a Java program that checks whether a given value exists in a TreeMap.
 7.  Stop the program.
 
 ## Program:
-```
-/*
-Program to checks whether a given value exists in a TreeMap.
-Developed by: Lakshmi Priya .V
-RegisterNumber:  212223220049
-*/
-```
+
 ```
 import java.util.*;
 public class TreeMapValueExistenceCheck {
