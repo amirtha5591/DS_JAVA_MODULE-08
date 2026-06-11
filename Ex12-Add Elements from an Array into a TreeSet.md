@@ -9,13 +9,7 @@ To write a Java program that adds elements from an array into a TreeSet and disp
 4. Print TreeSet elements (in sorted order)   
 
 ## Program:
-```
-/*
-Program that adds elements from an array into a TreeSet and displays the elements in sorted order.
-Developed by: Lakshmi Priya .V
-RegisterNumber:  212223220049
-*/
-```
+
 ```
 import java.util.*;
 
