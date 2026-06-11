@@ -10,13 +10,7 @@ To convert a collection of distinct integers stored in a HashSet into an ArrayLi
 5. Print ArrayList elements.     
 
 ## Program:
-```
-/*
-Program to To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
-Developed by: Lakshmi Priya .V
-RegisterNumber:  212223220049
-*/
-```
+
 ```
 import java.util.*;
 
