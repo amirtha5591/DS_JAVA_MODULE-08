@@ -11,13 +11,7 @@ To implement a program that tracks the first unique (non-repeating) number in a 
 5. After processing all numbers, end the program.
 
 ## Program:
-```
-/*
-Program to tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
-Developed by: Lakshmi Priya .V
-RegisterNumber:  212223220049
-*/
-```
+
 ```
 import java.util.*;
 public class FirstUniqueNumberStream {
